@@ -1,0 +1,176 @@
+{
+    "player1": {
+      "playerName": "",
+      "gamePlayed": "",
+      "victoryPoints": 0
+    },
+    "player2": {
+      "playerName": "",
+      "gamePlayed": "",
+      "victoryPoints": 0
+    },
+    "players": [
+      {
+        "value": "Antero",
+        "text": "Antero"
+      },
+      {
+        "value": "Anna",
+        "text": "Anna"
+      },
+      {
+        "value": "Nick",
+        "text": "Nick"
+      },
+      {
+        "value": "German",
+        "text": "German"
+      },
+      {
+        "value": "Boris",
+        "text": "Boris"
+      },
+      {
+        "value": "Ilya",
+        "text": "Ilya"
+      },
+      {
+        "value": "Guillem",
+        "text": "Guillem"
+      },
+      {
+        "value": "Rexxigar",
+        "text": "Rexxigar"
+      }
+    ],
+    "gameTypes": [
+      {
+        "value": "Primary",
+        "text": "Primary"
+      },
+      {
+        "value": "Alliance",
+        "text": "Primary Alliance"
+      },
+      {
+        "value": "Secondary",
+        "text": "Secondary"
+      }
+    ],
+    "gameSizes": [
+      {
+        "value": "Combatpatrol",
+        "text": "Combat patrol"
+      },
+      {
+        "value": "Incursion",
+        "text": "Incursion"
+      },
+      {
+        "value": "Strikeforce",
+        "text": "Strike force"
+      },
+      {
+        "value": "Onslaught",
+        "text": "Onslaught"
+      }
+    ],
+    "missions": {
+      "Combatpatrol": [
+        {
+          "value": "SaC",
+          "text": "Sweep and clear"
+        },
+        {
+          "value": "SD",
+          "text": "Supply drop"
+        },
+        {
+          "value": "As",
+          "text": "Assasinate"
+        },
+        {
+          "value": "Custom",
+          "text": "Custom"
+        }
+      ],
+      "Incursion": [
+        {
+          "value": "SC",
+          "text": "Supply cache"
+        },
+        {
+          "value": "Rl",
+          "text": "The relic"
+        },
+        {
+          "value": "Sb",
+          "text": "Sabotage"
+        },
+        {
+          "value": "Rp",
+          "text": "Recon patrol"
+        },
+        {
+          "value": "Rt",
+          "text": "The ritual"
+        },
+        {
+          "value": "BEL",
+          "text": "Behind enemy lines"
+        },
+        {
+          "value": "Custom",
+          "text": "Custom"
+        }
+      ],
+      "Strikeforce": [
+        {
+          "value": "SfA",
+          "text": "Supplies from above"
+        },
+        {
+          "value": "NtS",
+          "text": "Narrow the search"
+        },
+        {
+          "value": "COtH",
+          "text": "Cut off the head"
+        },
+        {
+          "value": "RaR",
+          "text": "Raze and ruin"
+        },
+        {
+          "value": "Am",
+          "text": "Ambush"
+        },
+        {
+          "value": "Rt",
+          "text": "Retrieval"
+        },
+        {
+          "value": "Custom",
+          "text": "Custom"
+        }
+      ],
+      "Onslaught": [
+        {
+          "value": "Fs",
+          "text": "Firestorm"
+        },
+        {
+          "value": "GA",
+          "text": "Grand assault"
+        },
+        {
+          "value": "FoG",
+          "text": "Field of glory"
+        },
+        {
+          "value": "Custom",
+          "text": "Custom"
+        }
+      ]
+    }
+  }
