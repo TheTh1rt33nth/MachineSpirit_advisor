@@ -78,15 +78,15 @@
     "missions": {
       "Combatpatrol": [
         {
-          "value": "SaC",
+          "value": "Sweep and clear",
           "text": "Sweep and clear"
         },
         {
-          "value": "SD",
+          "value": "Supply drop",
           "text": "Supply drop"
         },
         {
-          "value": "As",
+          "value": "Assasinate",
           "text": "Assasinate"
         },
         {
@@ -96,27 +96,27 @@
       ],
       "Incursion": [
         {
-          "value": "SC",
+          "value": "Supply cache",
           "text": "Supply cache"
         },
         {
-          "value": "Rl",
+          "value": "The relic",
           "text": "The relic"
         },
         {
-          "value": "Sb",
+          "value": "Sabotage",
           "text": "Sabotage"
         },
         {
-          "value": "Rp",
+          "value": "Recon patrol",
           "text": "Recon patrol"
         },
         {
-          "value": "Rt",
+          "value": "The ritual",
           "text": "The ritual"
         },
         {
-          "value": "BEL",
+          "value": "Behind enemy lines",
           "text": "Behind enemy lines"
         },
         {
@@ -126,27 +126,27 @@
       ],
       "Strikeforce": [
         {
-          "value": "SfA",
+          "value": "Supplies from above",
           "text": "Supplies from above"
         },
         {
-          "value": "NtS",
+          "value": "Narrow the search",
           "text": "Narrow the search"
         },
         {
-          "value": "COtH",
+          "value": "Cut off the head",
           "text": "Cut off the head"
         },
         {
-          "value": "RaR",
+          "value": "Raze and ruin",
           "text": "Raze and ruin"
         },
         {
-          "value": "Am",
+          "value": "Ambush",
           "text": "Ambush"
         },
         {
-          "value": "Rt",
+          "value": "Retrieval",
           "text": "Retrieval"
         },
         {
@@ -156,15 +156,15 @@
       ],
       "Onslaught": [
         {
-          "value": "Fs",
+          "value": "Firestorm",
           "text": "Firestorm"
         },
         {
-          "value": "GA",
+          "value": "Grand assault",
           "text": "Grand assault"
         },
         {
-          "value": "FoG",
+          "value": "Field of glory",
           "text": "Field of glory"
         },
         {
