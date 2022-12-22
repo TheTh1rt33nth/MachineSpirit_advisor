@@ -1,5 +1,5 @@
 <template>
-  <div class="container-fluid">
+  <div class="container-fluid my-3">
     <div class="log-generator">
       <div class="row justify-content-center">
         <!-- Header -->
